@@ -1,2 +1,2 @@
 # Calculator
--basic calculator using Tkinter
+Basic calculator using Tkinter
